@@ -4,7 +4,7 @@
 
 - Fizemos a importação de três bibliotecas sendo elas: selenium, pyautogui & time.
 - Nas quatros primeiras linhas, o email e a senha da netflix é coletada, nosso navegador é aberto e já entra no site de login.
-- Nas outras 8 linhas, é estabelecido um tempo para que cada comando execute após a página ser totalmente carregada, a coleta do xpath dos campos de texto e inserido as informações (Email e Senha) coletada antes.
+- Nas outras 8 linhas, é estabelecido um tempo para que cada comando execute após a página ser totalmente carregada, a coleta do xpath dos campos de texto e a inserção das informações (Email e Senha) coletada antes.
 
 ### PORQUE EU USEI O SELENIUM E PYAUTOGUI?
 
