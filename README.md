@@ -12,4 +12,10 @@
 
 - Já o PyAutoGui serviu para inserir as informações coletadas pelo nosso input nas duas primeiras linhas do código.
 
+### REQUISITOS PARA RODAR O SCRIPT
+
+- Ter o Python 3
+- Ter o Chrome Driver (Veja a versão do seu navegador Chrome e instale)
+
+
 ### É um sistema bem simples, entretanto, o código pode ser implementado em outro caso seja da vontade do usuários.
