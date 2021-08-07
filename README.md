@@ -8,7 +8,7 @@
 
 ### PORQUE EU USEI O SELENIUM E PYAUTOGUI?
 
-- O Selenium serviu apenas para clicar nos campos, caso eu utilizasse o pyautogui teria que capturar a posição de cada input e botão de entrar, entretanto, esse tipo de script só funcionaria bem para minha resolução (1920x1080), caso eu quissese passar para um amigo de trabalho, escola, faculdade, teria que formatar o código para a resolução dele.
+- O Selenium serviu apenas para clicar nos campos, caso eu utilizasse somente o pyautogui, teria que capturar a posição de cada input e botão de entrar, entretanto, esse tipo de script só funcionaria bem para minha resolução (1920x1080), caso eu quissese passar para um amigo de trabalho, escola, faculdade, teria que formatar o código para a resolução dele.
 
 - Já o PyAutoGui serviu para inserir as informações coletadas pelo nosso input nas duas primeiras linhas do código.
 
